@@ -41,6 +41,11 @@ O cliente se preocupa com a configuração da rede, segurança e diretório
 
 SaaS: uso de um aplicativo totalmente desenvolvido
 
+# Laboratório computação em nuvem
+No primeiro laboratório foi mostrado o portal do Azure e como podemos localizar os recursos e serviços.
+
+
+
 O cliente se preocupa pelos dados e informações, dispositivos e acesso.
 
 
