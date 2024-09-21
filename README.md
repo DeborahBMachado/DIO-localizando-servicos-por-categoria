@@ -46,7 +46,7 @@ No primeiro laboratório foi mostrado o portal do Azure e como podemos localizar
 
 Painel onde podemos personalizar a visualização do recursos:
 
-![Alter Text] (lab1/Captura de tela 2024-09-20 214927.png)
+![Alt Text](lab1/Captura de tela 2024-09-20 214927.png)
 
 
 
