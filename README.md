@@ -44,6 +44,12 @@ SaaS: uso de um aplicativo totalmente desenvolvido
 # Laboratório computação em nuvem
 No primeiro laboratório foi mostrado o portal do Azure e como podemos localizar os recursos e serviços.
 
+Painel onde podemos personalizar a visualização do recursos:
+
+lab1/Captura de tela 2024-09-20 214927.png
+
+
+
 
 
 O cliente se preocupa pelos dados e informações, dispositivos e acesso.
