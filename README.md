@@ -40,6 +40,7 @@ PaaS: adequado para um ambiente de desenvolvimento. Não se preocupa com patch e
 O cliente se preocupa com a configuração da rede, segurança e diretório
 
 SaaS: uso de um aplicativo totalmente desenvolvido
+O cliente se preocupa pelos dados e informações, dispositivos e acesso.
 
 # Laboratório computação em nuvem
 No primeiro laboratório foi mostrado o portal do Azure e como podemos localizar os recursos e serviços.
@@ -47,13 +48,16 @@ No primeiro laboratório foi mostrado o portal do Azure e como podemos localizar
 Painel onde podemos personalizar a visualização do recursos:
 
 
-![Alt Text](./lab1/Captura de tela 2024-09-20 214927.png)
+![Alt Text](https://github.com/DeborahBMachado/DIO-localizando-servicos-por-categoria/blob/main/lab1/Captura%20de%20tela%202024-09-20%20214927.png)
 
 
 
+Local no portal do Azure onde podemos ver todos o serviços que podem ser criados:
+
+![Alt Text](https://github.com/DeborahBMachado/DIO-localizando-servicos-por-categoria/blob/main/lab1/Captura%20de%20tela%202024-09-20%20214927.png)
 
 
-O cliente se preocupa pelos dados e informações, dispositivos e acesso.
+
 
 
 
