@@ -54,7 +54,7 @@ Painel onde podemos personalizar a visualização do recursos:
 
 Local no portal do Azure onde podemos ver todos o serviços que podem ser criados:
 
-![Alt Text](https://github.com/DeborahBMachado/DIO-localizando-servicos-por-categoria/blob/main/lab1/Captura%20de%20tela%202024-09-20%20214927.png)
+![Alt Text](https://github.com/DeborahBMachado/DIO-localizando-servicos-por-categoria/blob/main/lab1/Captura%20de%20tela%202024-09-20%20214625.png)
 
 
 
